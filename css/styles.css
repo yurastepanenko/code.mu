@@ -1,5 +1,6 @@
 p {
 	color: orange;
+    width: 300px;
 }
 h1 {
     color: green;
@@ -15,4 +16,8 @@ b {
 }
 i {
     color: #ff0000;
+}
+td {
+	width: 400px;
+	height: 300px;
 }
