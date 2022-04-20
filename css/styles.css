@@ -4,9 +4,15 @@ p {
 h1 {
     color: green;
 }
-h2{
+h2 {
     color: cyan;
 }
-h3{
+h3 {
     color: red;
+}
+b {
+	color: rgb(255, 236, 114);
+}
+i {
+    color: #ff0000;
 }
