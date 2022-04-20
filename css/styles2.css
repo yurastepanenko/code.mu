@@ -1,11 +1,13 @@
 h1 {
     font-size: 50px;
     text-align: center;
+    text-decoration:line-through;
   
 }
 h2 {
     font-size: 40px;
     font-weight: normal;
+    text-decoration: overline;
 }
 
 /* p {
@@ -28,4 +30,5 @@ h2 {
 p {
     font:  italic bold  40px/60px Arial;
 	text-indent: 60px;
+    text-decoration: underline;
 }
