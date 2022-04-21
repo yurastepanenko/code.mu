@@ -32,3 +32,6 @@ p {
 	text-indent: 60px;
     text-decoration: underline;
 }
+li > b {
+    color: red;
+}
