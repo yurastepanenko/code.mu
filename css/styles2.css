@@ -35,3 +35,15 @@ p {
 li > b {
     color: red;
 }
+.eee {
+	color: green;
+}
+.zzz {
+	color: red;
+}
+.odd {
+    color: red;
+}
+.eve {
+	color: green;
+}
