@@ -29,3 +29,15 @@ ul {
     font-size: 16px;
     line-height: 20px;
 }
+
+li i{
+    color: red;
+}
+
+p i{
+    color:green
+}
+
+p b i{
+    color:red
+}
