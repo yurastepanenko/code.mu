@@ -68,3 +68,12 @@ h2.header{
 h3.header{
     font-size: 30px;
 }
+#elem1{
+    color: red;
+}
+#elem2{
+    color: green;
+}
+#elem3{
+    color:aqua;
+}
